@@ -1,1 +1,4 @@
-Drugs!
+1) Dirigirse a github.com y crear una cuenta.
+2) Una vez creada la cuenta cree un nuevo repositorio con el nombre 24-1_Programacion_estructurada y asegurese de configurarlo en publico.
+3) Una vez creado el repositorio proceda a descargar el programa Github Desktop e instalelo
+4) Una vez instalado introduzca su cuenta 
