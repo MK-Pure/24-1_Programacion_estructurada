@@ -1,0 +1,4 @@
+﻿  P005_Aritmeticos_V0.cpp
+X:\Docs 2\Repo (Programacion Estructurada)\24-1_Programacion_estructurada\P005_Aritmeticos_V0\P005_Aritmeticos_V0.cpp(30,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Docs 2\Repo (Programacion Estructurada)\24-1_Programacion_estructurada\P005_Aritmeticos_V0\P005_Aritmeticos_V0.cpp(68,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  P005_Aritmeticos_V0.vcxproj -> X:\Docs 2\Repo (Programacion Estructurada)\24-1_Programacion_estructurada\P005_Aritmeticos_V0\x64\Debug\P005_Aritmeticos_V0.exe
