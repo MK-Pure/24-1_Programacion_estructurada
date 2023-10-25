@@ -22,7 +22,7 @@ int main()
     std::cout << c << std::endl;
     d = sqrt(c);
     c = pow(c, .5);
-    std::cout << "La raiz cuadrada del resultado es: " << c <<
+    std::cout << "La raiz cuadrada del resultado es: \n " << c <<
         std::endl << d;
 
     std::cout << "Dime un numero de zero a infinito. ";

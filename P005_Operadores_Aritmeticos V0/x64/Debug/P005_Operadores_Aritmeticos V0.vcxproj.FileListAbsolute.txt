@@ -1,1 +1,2 @@
 X:\Docs 2\Repo (Programacion Estructurada)\24-1_Programacion_estructurada\P005_Operadores_Aritmeticos V0\x64\Debug\P005_Operadores_Aritmeticos V0.exe
+C:\Users\LABORATORIO 210\Desktop\24-1_Programacion_estructurada (Carlos E.)\P005_Operadores_Aritmeticos V0\x64\Debug\P005_Operadores_Aritmeticos V0.exe
