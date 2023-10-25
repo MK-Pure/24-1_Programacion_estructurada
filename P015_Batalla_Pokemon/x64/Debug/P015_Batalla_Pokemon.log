@@ -1,0 +1,4 @@
+﻿  P015_Batalla_Pokemon.cpp
+X:\Docs 2\Repo (Programacion Estructurada)\24-1_Programacion_estructurada\P015_Batalla_Pokemon\P015_Batalla_Pokemon.cpp(66,43): warning C4305: 'argument': truncation from 'double' to 'float'
+X:\Docs 2\Repo (Programacion Estructurada)\24-1_Programacion_estructurada\P015_Batalla_Pokemon\P015_Batalla_Pokemon.cpp(67,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  P015_Batalla_Pokemon.vcxproj -> X:\Docs 2\Repo (Programacion Estructurada)\24-1_Programacion_estructurada\P015_Batalla_Pokemon\x64\Debug\P015_Batalla_Pokemon.exe
