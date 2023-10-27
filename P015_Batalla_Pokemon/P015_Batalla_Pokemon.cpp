@@ -1,5 +1,5 @@
-// P015_Batalla_Pokemon.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// P015_Batalla_Pokemon.cpp
+// Carlos Enciso.
 
 #include <iostream>
 #include <string>
@@ -27,13 +27,13 @@ public:
         }
     }
 
-    int calculateDamage(int opponent_defense, float miss_chance, int ability_power) {
+    int calculateDamage(int defensa, float miss_chance, int ability_power) {
         float random = static_cast<float>(rand()) / RAND_MAX;
         if (random >= miss_chance) {
-            int damage = (ability_power - opponent_defense);
+            int damage = (ability_power - defensa);
             return (damage > 0) ? damage : 0;
         }
-        return -1; // Ataque fallado
+        return -1; // Ataque fallido
     }
 
     void attack(Pokemon& opponent) {
