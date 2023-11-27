@@ -15,13 +15,13 @@ int main()
     bool perdedor = false;
     int rropc;
     int elimination;
-    int torneoe;
+    int Torneoe;
     int num;
     // Elimination Chamber (eliminacion) 
-    // torneo (gurpos, semifinal y final)
+    // Torneo (gurpos, semifinal y final)
 
     std::cout << "Hola bienvenido a la arena \n";
-    std::cout << "que te gustaria jugar? /n 1.- royal rumble , 2.-Elimination Chamber 3.- torneo \n ";
+    std::cout << "que te gustaria jugar? \n 1.- Royal Rumble ,\n 2.- Elimination Chamber \n 3.- Torneo \n ";
     std::cin >> opc;
 
     switch (opc)
@@ -30,9 +30,9 @@ int main()
         ganador = 1, 3, 6, 27, 10, 13, 15, 20;
 
 
-        std::cout << "Bienvenido al modo royal rumble. \n";
-        std::cout << "de cuantos luchadores sera tu royal rumble. \n";
-        std::cout << "1- 10 Luchadores , 2- 20 Luchadores , 3- 30Luchadores. \n";
+        std::cout << "Bienvenido al modo Royal Rumble. \n";
+        std::cout << "de cuantos luchadores sera tu Royal Rumble. \n";
+        std::cout << "\n 1- 10 Luchadores , \n 2- 20 Luchadores , \n 3- 30Luchadores. \n";
         std::cin >> rropc;
 
         switch (rropc)
@@ -48,10 +48,7 @@ int main()
             }
             else
             {
-
-
                 std::cout << "lo siento has perdido. \n";
-
             }
 
             break;
@@ -66,10 +63,7 @@ int main()
             }
             else
             {
-
-
                 std::cout << "lo siento has perdido.\n";
-
             }
             break;
         case 3:
@@ -83,10 +77,7 @@ int main()
             }
             else
             {
-
-
                 std::cout << "lo siento has perdido. \n";
-
             }
         default:
             break;
@@ -102,20 +93,16 @@ int main()
         {
             std::cout << "felicidades haz ganado. \n";
             std::cout << "ahora eres el nuevo campeon mundial\n";
-
         }
         else
         {
-
-
             std::cout << "lo siento has perdido. \n";
-
         }
 
 
     case 3:
-        std::cout << "Bienvenido al modo torneo\n";
-        std::cout << "Escoge un numero para el torneo del 1 al 16\n";
+        std::cout << "Bienvenido al modo Torneo\n";
+        std::cout << "Escoge un numero para el Torneo del 1 al 16\n";
         std::cin >> num;
 
         if (num == ganador)
@@ -130,3 +117,4 @@ int main()
 
 
     }
+}

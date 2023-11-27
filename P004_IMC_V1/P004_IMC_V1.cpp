@@ -24,7 +24,8 @@ int main()
 
     std::cout << "Tienes fiebre?;" <<
         std::endl;
-    std::cin >> sintoma1;
+    std::cin >> sintoma1 <<
+        std::endl;
 
     std::cout << "Tienes dolores de cabeza?;" <<
         std::endl;
