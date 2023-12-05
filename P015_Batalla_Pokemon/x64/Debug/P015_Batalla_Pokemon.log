@@ -1,4 +1,0 @@
-﻿  P015_Batalla_Pokemon.cpp
-C:\Users\AMK 2024-1\Desktop\24-1_Programacion_estructurada (Carlos Enciso)\P015_Batalla_Pokemon\P015_Batalla_Pokemon.cpp(66,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\AMK 2024-1\Desktop\24-1_Programacion_estructurada (Carlos Enciso)\P015_Batalla_Pokemon\P015_Batalla_Pokemon.cpp(67,42): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-  P015_Batalla_Pokemon.vcxproj -> C:\Users\AMK 2024-1\Desktop\24-1_Programacion_estructurada (Carlos Enciso)\P015_Batalla_Pokemon\x64\Debug\P015_Batalla_Pokemon.exe

@@ -1,4 +1,4 @@
 ﻿  P005_Operadores_Aritmeticos V0.cpp
-C:\Users\LABORATORIO 210\Desktop\24-1_Programacion_estructurada (Carlos E.)\P005_Operadores_Aritmeticos V0\P005_Operadores_Aritmeticos V0.cpp(24,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\LABORATORIO 210\Desktop\24-1_Programacion_estructurada (Carlos E.)\P005_Operadores_Aritmeticos V0\P005_Operadores_Aritmeticos V0.cpp(72,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-  P005_Operadores_Aritmeticos V0.vcxproj -> C:\Users\LABORATORIO 210\Desktop\24-1_Programacion_estructurada (Carlos E.)\P005_Operadores_Aritmeticos V0\x64\Debug\P005_Operadores_Aritmeticos V0.exe
+C:\Users\LABORATORIO 210\Desktop\Repo (Carlos Enciso)\24-1_Programacion_estructurada\P005_Operadores_Aritmeticos V0\P005_Operadores_Aritmeticos V0.cpp(26,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LABORATORIO 210\Desktop\Repo (Carlos Enciso)\24-1_Programacion_estructurada\P005_Operadores_Aritmeticos V0\P005_Operadores_Aritmeticos V0.cpp(75,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  P005_Operadores_Aritmeticos V0.vcxproj -> C:\Users\LABORATORIO 210\Desktop\Repo (Carlos Enciso)\24-1_Programacion_estructurada\P005_Operadores_Aritmeticos V0\x64\Debug\P005_Operadores_Aritmeticos V0.exe

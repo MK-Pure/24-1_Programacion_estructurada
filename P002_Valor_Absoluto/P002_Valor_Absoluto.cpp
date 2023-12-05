@@ -19,7 +19,7 @@ int main()
         // Muestra el resultado
         std::cout << "El valor absoluto de " << numero << " es " << valorAbsoluto << std::endl;
 
-        std::cout << "¿Desea calcular el valor absoluto de otro número? (S/N): ";
+        std::cout << "¿Desea calcular el valor absoluto de otro número? (s/n): ";
         std::cin >> decision;
     }
   while (decision == 'S' || decision == 's');
